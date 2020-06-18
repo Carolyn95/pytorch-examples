@@ -1,5 +1,5 @@
-# _*_coding_*_ = utf-8
-# _*_author_*_ = Carolyn CHEN
+# _*_ coding: utf-8 _*_
+# __author__ = 'Carolyn CHEN'
 
 from __future__ import absolute_import, division, print_function, unicode_literals
 import logging
